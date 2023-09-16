@@ -5,7 +5,7 @@ const cors = require("cors");
 const knex = require("knex") ({
     client: "pg",
     connection:
-      "postgres://postgres:2212002123@test-database.cfuddmowxczu.us-east-1.rds.amazonaws.com/postgres?ssl=true",
+      "",
   });
 
 
