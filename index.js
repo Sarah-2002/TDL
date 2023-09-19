@@ -26,4 +26,4 @@ const knex = require("knex") ({
 
   // step 1 : install jsonwebtoken and bcrypt : they hash passwords //
 
-  //step 2 : 
+  //step 2 
